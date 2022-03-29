@@ -1,0 +1,8 @@
+h1.dt-news__title
+div.dt-news__sapo > h2
+div.dt-news__content
+May moc
+
+
+
+
